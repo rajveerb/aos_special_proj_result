@@ -4,7 +4,7 @@ Download and open in browser to visualize it.
 
 ## Install
 
-Note: Below installation is made in addition to the instllation specified in project report.
+Note: Below installation is made in addition to the installation specified in project report.
 
 1. `sudo apt-get install -y libc6-prof`
 
