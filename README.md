@@ -8,6 +8,11 @@ Note: Below installation is made in addition to the installation specified in pr
 
 1. `sudo apt-get install -y libc6-prof`
 
+### Flamegraph generation scripts
+
+1. `wget -P ../scripts/ https://raw.githubusercontent.com/brendangregg/FlameGraph/master/stackcollapse-perf.pl`
+2. `wget -P ../scripts/ https://raw.githubusercontent.com/brendangregg/FlameGraph/master/flamegraph.pl`
+
 ## How to run the code with perf?
 
 ### For vanilla python 3.11
